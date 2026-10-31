@@ -1,0 +1,6 @@
+AUTH FAIL user=admin
+AUTH FAIL user=admin
+password=hunter2
+api_key=abc123def
+token=xyz123
+contact=user@example.com
